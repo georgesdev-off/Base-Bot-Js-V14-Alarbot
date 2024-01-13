@@ -1,0 +1,12 @@
+{
+"prefix": "PREFIX",
+
+"status": {
+"message": "MESSAGE_STATUT"
+},
+
+"couleurs": {
+"defaut": "ffffff"
+}
+
+}
